@@ -1,5 +1,12 @@
 #!/bin/bash
 
+
+# before using this file export the username and token
+# export username="mkabdulazees56"
+# export token="add token here"
+# give two parameters organization name and repo name 
+#./list-users.sh mk-digitel-solutions test_shell_scripting
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
