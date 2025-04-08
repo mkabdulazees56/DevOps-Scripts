@@ -1,0 +1,9 @@
+1 - git init   (to check repository already connected - git remote -v)
+
+2 - git add .
+
+3 - git commit -m "front end complete"
+
+4 - git remote add orgin https://github.com/mkabdulazees56/bookStore
+
+5 - git push -u orgin main (check which branch - git branch) git checkout -b main
